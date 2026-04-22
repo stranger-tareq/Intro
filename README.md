@@ -1,4 +1,3 @@
 - 👋 Hi, I’m MD MAHMUDUL HASAN TAREQ
-- 👀 I’m interested in Ethical hacking and Data Science
-- 🌱 I’m currently learning Machine Learning and Data Analysis.
+- 👀 I’m interested in Machine Learning, Data Science and Cyber Security.
 - 📫 You can reach me by my linkedin account https://www.linkedin.com/in/v-mtareq/
